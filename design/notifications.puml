@@ -1,0 +1,3 @@
+@startuml
+StreamListener -> KafkaProducer: publish(productLine, payload)
+@enduml
